@@ -3,5 +3,6 @@ name=Yuri Keybox Manager
 version=v1.6
 versionCode=160
 author=Dpejoh & Yurii0307
+banner=https://raw.githubusercontent.com/dpejoh/yurikey/main/Module/banner.png
 description=Getting latest Yuri keybox
 updateJson=https://raw.githubusercontent.com/dpejoh/yurikey/main/update.json

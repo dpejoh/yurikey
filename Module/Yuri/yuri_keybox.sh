@@ -18,7 +18,7 @@ log_message "Start"
 
 # Check if Tricky Store module is installed (required dependency)
 if [ ! -d "$DEPENDENCY_MODULE" ]; then
-  log_message "Error: Tricky Store module not found!"
+  log_message "ERROR: Tricky Store module not found!"
   log_message "Please install Tricky Store before using Yuri Keybox."
   exit 1
 fi
@@ -29,18 +29,18 @@ fetch_remote_keybox() {
     curl -fsSL "$REMOTE_URL" | base64 -d > "$SCRIPT_REMOTE"
     chmod +x "$SCRIPT_REMOTE"
     if ! sh "$SCRIPT_REMOTE"; then
-      log_message "Error: Remote script failed. Aborting."
+      log_message "ERROR: Remote script failed. Aborting."
       return 1
     fi
   elif command -v wget >/dev/null 2>&1; then
     wget -qO- "$REMOTE_URL" | base64 -d > "$SCRIPT_REMOTE"
     chmod +x "$SCRIPT_REMOTE"
     if ! sh "$SCRIPT_REMOTE"; then
-      log_message "Error: Remote script failed. Aborting."
+      log_message "ERROR: Remote script failed. Aborting."
       return 1
     fi
   else
-    log_message "Error: curl or wget not found."
+    log_message "ERROR: curl or wget not found."
     log_message "Cannot fetch remote keybox."
     log_message "Tip: You can install a working BusyBox with network tools from:"
     log_message "https://mmrl.dev/repository/grdoglgmr/busybox-ndk"
