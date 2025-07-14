@@ -1,3 +1,29 @@
+<details align="right">
+<summary>🌐 Language</summary>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=dpejoh&project=yurikey&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=dpejoh&project=yurikey&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=dpejoh&project=yurikey&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=dpejoh&project=yurikey&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=dpejoh&project=yurikey&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=dpejoh&project=yurikey&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=dpejoh&project=yurikey&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=dpejoh&project=yurikey&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=dpejoh&project=yurikey&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=dpejoh&project=yurikey&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=dpejoh&project=yurikey&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=dpejoh&project=yurikey&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=dpejoh&project=yurikey&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=dpejoh&project=yurikey&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=dpejoh&project=yurikey&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=dpejoh&project=yurikey&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=dpejoh&project=yurikey&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=dpejoh&project=yurikey&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=dpejoh&project=yurikey&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=dpejoh&project=yurikey&lang=id">Bahasa Indonesia</a>
+      </div>
+</details>
+
 # YuriKey
 ![Artifacts](./Module/banner.png)
 [![Telegram](https://img.shields.io/badge/Follow-Telegram-blue.svg?logo=telegram)](https://t.me/yuriiroot)
