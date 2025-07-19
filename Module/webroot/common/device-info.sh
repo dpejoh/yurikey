@@ -19,6 +19,8 @@ elif [ -f "/data/apatch/apatch" ]; then
   root_type="Apatch"
 elif [ -d "/data/adb/ksu" ] && [ -d "/data/adb/kpm" ]; then
   root_type="SukiSU-Ultra"
+elif [ -d "/data/adb/ksu" ] && [ -f "/data/adb/ksud" ]; then
+  root_type="KernelSU-Next"
 elif [ -d "/data/adb/ksu" ]; then
   root_type="KernelSU"
 else
